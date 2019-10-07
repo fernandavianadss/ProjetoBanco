@@ -1,0 +1,13 @@
+C:\Users\FernandaDSS\source\repos\BancoSolid\bin\Debug\netcoreapp3.0\BancoSolid.exe
+C:\Users\FernandaDSS\source\repos\BancoSolid\obj\Debug\netcoreapp3.0\BancoSolid.AssemblyInfoInputs.cache
+C:\Users\FernandaDSS\source\repos\BancoSolid\obj\Debug\netcoreapp3.0\BancoSolid.AssemblyInfo.cs
+C:\Users\FernandaDSS\source\repos\BancoSolid\bin\Debug\netcoreapp3.0\BancoSolid.deps.json
+C:\Users\FernandaDSS\source\repos\BancoSolid\bin\Debug\netcoreapp3.0\BancoSolid.runtimeconfig.json
+C:\Users\FernandaDSS\source\repos\BancoSolid\bin\Debug\netcoreapp3.0\BancoSolid.runtimeconfig.dev.json
+C:\Users\FernandaDSS\source\repos\BancoSolid\bin\Debug\netcoreapp3.0\BancoSolid.dll
+C:\Users\FernandaDSS\source\repos\BancoSolid\bin\Debug\netcoreapp3.0\BancoSolid.pdb
+C:\Users\FernandaDSS\source\repos\BancoSolid\bin\Debug\netcoreapp3.0\Autofac.dll
+C:\Users\FernandaDSS\source\repos\BancoSolid\obj\Debug\netcoreapp3.0\BancoSolid.csprojAssemblyReference.cache
+C:\Users\FernandaDSS\source\repos\BancoSolid\obj\Debug\netcoreapp3.0\BancoSolid.csproj.CopyComplete
+C:\Users\FernandaDSS\source\repos\BancoSolid\obj\Debug\netcoreapp3.0\BancoSolid.dll
+C:\Users\FernandaDSS\source\repos\BancoSolid\obj\Debug\netcoreapp3.0\BancoSolid.pdb
